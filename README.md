@@ -2,6 +2,6 @@
 An extremely thin wrapper for ip-api.com
 
 
-### Notes
+## Notes
 
 Man, I gotta update this sometime.
